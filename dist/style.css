@@ -5,3 +5,6 @@
 
 /* Keep selected project artwork free of numbering and arrow decorations. */
 .project .art-category{top:24px}.project-award{right:23px}
+
+/* Vector arrows keep a consistent stroke and shape across desktop and mobile. */
+.icon-arrow{display:inline-block;width:1em;height:1em;vertical-align:-.12em;flex:none;overflow:visible}.contact-title>span .icon-arrow{width:1em;height:1em}.round-link span .icon-arrow{width:21px;height:21px}.game-row .arrow{font-size:17px}
