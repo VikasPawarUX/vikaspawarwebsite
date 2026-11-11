@@ -14,3 +14,5 @@
 
 /* Supplied vector brand mark, cropped to its artwork bounds. */
 .brand{display:inline-flex;align-items:center}.brand img{display:block;width:50px;height:36px;object-fit:contain}
+
+.hero-location{white-space:nowrap}.location-flag{display:inline-block;width:18px;height:12px;vertical-align:-2px;border:1px solid #25262014;letter-spacing:0}
