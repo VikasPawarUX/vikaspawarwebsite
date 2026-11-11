@@ -8,3 +8,6 @@
 
 /* Vector arrows keep a consistent stroke and shape across desktop and mobile. */
 .icon-arrow{display:inline-block;width:1em;height:1em;vertical-align:-.12em;flex:none;overflow:visible}.contact-title>span .icon-arrow{width:1em;height:1em}.round-link span .icon-arrow{width:21px;height:21px}.game-row .arrow{font-size:17px}
+
+/* Accommodate the longer approved introduction and contact sentence. */
+.hero .eyebrow .dot{flex:0 0 7px}.hero .eyebrow>span:last-child{min-width:0}.store-links>span{line-height:1.6}.contact-intro{font-size:14px;line-height:1.7;color:var(--muted);margin:-16px 0 30px}
