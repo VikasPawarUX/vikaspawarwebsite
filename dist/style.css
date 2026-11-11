@@ -11,3 +11,6 @@
 
 /* Accommodate the longer approved introduction and contact sentence. */
 .hero .eyebrow .dot{flex:0 0 7px}.hero .eyebrow>span:last-child{min-width:0}.store-links>span{line-height:1.6}.contact-intro{font-size:14px;line-height:1.7;color:var(--muted);margin:-16px 0 30px}
+
+/* Supplied vector brand mark, cropped to its artwork bounds. */
+.brand{display:inline-flex;align-items:center}.brand img{display:block;width:50px;height:36px;object-fit:contain}
